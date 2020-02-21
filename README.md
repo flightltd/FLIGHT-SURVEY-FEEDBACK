@@ -11,4 +11,4 @@ FLIGHT SURVEY has been created out of my experience as a trained drone pilot to 
 # FEEDBACK
 **Bug reporting and enhancement requests:**
 
-If you have encountered any unusual behaviour in the system (a bug) or want to request enhancements or changes then please submit an entry by clicking [here] (https://github.com/flightltd/FLIGHT-SURVEY-FEEDBACK/issues).
+If you have encountered any unusual behaviour in the system (a bug) or want to request enhancements or changes then please submit an entry by clicking [here](https://github.com/flightltd/FLIGHT-SURVEY-FEEDBACK/issues).
