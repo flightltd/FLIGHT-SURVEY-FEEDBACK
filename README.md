@@ -8,6 +8,7 @@ You can either search for the location and draw your mission area or create it f
 
 FLIGHT SURVEY has been created out of my experience as a trained drone pilot to be an affordable resource for both professional and amateur drone pilots that has collaboration at its heart. It caters for North Amercia and most European countries, has an attractive and easy to use interface and some of its features can be found only in systems costing ten times as much.
 
+# FEEDBACK
 ## Bug reporting and enhancement requests
 
 If you have encountered any unusual behaviour in the system (a bug) or want to request enhancements or changes then please submit an entry by clicking on the "Issues" tab above.
