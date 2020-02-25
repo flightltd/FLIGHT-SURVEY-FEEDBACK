@@ -1,4 +1,4 @@
-![GitHub Logo](/img/devices.png)
+![GitHub Logo](/img/devices2.png)
 
 # FLIGHT SURVEY FEEDBACK
 **Bug reporting and enhancement requests:**
